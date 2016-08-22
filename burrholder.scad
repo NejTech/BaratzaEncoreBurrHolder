@@ -68,13 +68,13 @@ difference() {
         // zobáčky na mlecí kámen
         // millstone retaining tabs
         union() {
-            translate([-3.75,24.5,6])
+            translate([-3.75,24.5,5.5])
             rotate([90,0,0])
-            prism(7.5, 2, 2.2);
+            prism(7.5, 1.5, 1.7);
             
-            translate([3.75,-24.5,6])
+            translate([3.75,-24.5,5.5])
             rotate([90,0,180])
-            prism(7.5, 2, 2.2);
+            prism(7.5, 1.5, 1.7);
         }
         
         // spodní část
@@ -124,20 +124,20 @@ difference() {
         // millstone retaining tab cutout
         translate([-4.5,-26.5,-0.05])
         union() {
-            cube([9,3,6]);
-            translate([0,0,5.95])
-            cube([0.75,3,5]);
-            translate([8.25,0,5.95])
-            cube([0.75,3,5]);
+            cube([9,3,5.5]);
+            translate([0,0,5.45])
+            cube([0.75,3,5.5]);
+            translate([8.25,0,5.45])
+            cube([0.75,3,5.5]);
         }
         
         translate([-4.5,23.5,-0.05])
         union() {
-            cube([9,3,6]);
-            translate([0,0,5.95])
-            cube([0.75,3,5]);
-            translate([8.25,0,5.95])
-            cube([0.75,3,5]);
+            cube([9,3,5.5]);
+            translate([0,0,5.45])
+            cube([0.75,3,5.5]);
+            translate([8.25,0,5.45])
+            cube([0.75,3,5.5]);
         }
         
         // postranní výřezy na zásobník zrn
