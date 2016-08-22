@@ -15,3 +15,6 @@ SCAD source for model of replacement burr holder for Baratza Encore coffee bean 
 3. Grind upper tabs for the silicone hopper according to need
 4. Grind side tabs to 1.2mm thickness (they are intentionally printed thicker to be stronger)
 5. Replacement part is done!
+
+<br>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
